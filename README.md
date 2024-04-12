@@ -42,3 +42,19 @@ month.abb.nl[1:3]
 month.name.nl
 month.name.nl[4:6]
 ```
+
+## Functions
+
+The package contains the following functions
+
+`circle_circum(r)` - calculates the circumference of a circle with
+radius `r`.
+
+`circle_area(r)` - calculates the area of a circle with radius `r`.
+
+### Examples
+
+``` r
+circle_circum(12)
+circle_area(12.3)
+```
