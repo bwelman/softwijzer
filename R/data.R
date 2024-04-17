@@ -54,23 +54,30 @@
 "bjcp2021"
 
 
-#' Jongens.
+#' Boys.
 #'
-#' Verzameling van voornamen van jongens
+#' Collection of Dutch names for boys.
 #'
-"jongens"
+#' @format A data frame with one variable \code{Voornaam}, the first name.
+#'
+"boys"
 
 
-#' Meisjes.
+#' Girls.
 #'
-#' Verzameling van voornamen van meisjes.
+#' Collection of Dutch names for girls
 #'
-"meisjes"
+#' @format A data frame with one variable \code{Voornaam}, the first name.
+#'
+"girls"
 
 
-#' Personen
+#' Colored People.
 #'
-#' Verzameling van (kleurtjes)namen met geslacht.
-#' Kan in de toekomst nog uitgebreid worden met andere eigenschappen.
+#' Collection of Dutch names for people where the names
+#' are made from names of colors.
 #'
-"personen"
+#' @format A data frame with three variables \code{Voornaam}, \code{Achternaam}
+#' en \code{Geslacht}. Respectively the first name, last name and gender.
+#'
+"people"

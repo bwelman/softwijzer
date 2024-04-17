@@ -1,12 +1,12 @@
 Package: softwijzer
-Title: Functies en datasets voor persoonlijk gebruik
-Version: 0.0.3-1
+Title: Functions and datasets
+Version: 0.0.3-2
 Authors@R: 
     person(given = "Ben",
            family = "Welman",
            role = c("aut", "cre"),
            email = "bwelman@gmail.com")
-Description: Contains functions and datasets for personal use.
+Description: Contains functions and datasets for use in my textbooks.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Language: en
