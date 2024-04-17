@@ -1,6 +1,6 @@
 Package: softwijzer
 Title: Functies en datasets voor persoonlijk gebruik
-Version: 0.0.3
+Version: 0.0.3-1
 Authors@R: 
     person(given = "Ben",
            family = "Welman",

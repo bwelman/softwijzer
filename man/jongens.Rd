@@ -5,7 +5,7 @@
 \alias{jongens}
 \title{Jongens.}
 \format{
-An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 199 rows and 1 columns.
+An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 200 rows and 1 columns.
 }
 \usage{
 jongens
